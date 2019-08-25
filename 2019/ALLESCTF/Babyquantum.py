@@ -10,7 +10,7 @@ elem.send_keys("- H U1 H D\nX H U2 H D")            # Deutsch Algo
 elem2 = browser.find_element_by_class_name("ui button")
 elem2.click()
 
-for i in range(0,210):
+for i in range(0,200):
     browser.delete_all_cookies()
     browser.add_cookie({'domain': 'hax.allesctf.net',
       'httpOnly': False,

@@ -25,8 +25,8 @@ Where the first term will always be zero thus
 
 <img src="/2019/ALLESCTF/tex/95397cbaab58b38a581647f951865244.svg?invert_in_darkmode&sanitize=true" align=middle width=80.75801414999998pt height=24.65753399999998pt/>
 
-So depending on the outcome of the first qubit we can find <img src="/2019/ALLESCTF/tex/4fa3ac8fe93c68be3fe7ab53bdeb2efa.svg?invert_in_darkmode&sanitize=true" align=middle width=12.35637809999999pt height=14.15524440000002pt/>. If the out come is
-0 <img src="/2019/ALLESCTF/tex/4fa3ac8fe93c68be3fe7ab53bdeb2efa.svg?invert_in_darkmode&sanitize=true" align=middle width=12.35637809999999pt height=14.15524440000002pt/> and same for the outcome of 1.
+So depending on the outcome of the first qubit we can find <img src="/2019/ALLESCTF/tex/4fa3ac8fe93c68be3fe7ab53bdeb2efa.svg?invert_in_darkmode&sanitize=true" align=middle width=12.35637809999999pt height=14.15524440000002pt/>. If the outcome is
+0 then <img src="/2019/ALLESCTF/tex/4fa3ac8fe93c68be3fe7ab53bdeb2efa.svg?invert_in_darkmode&sanitize=true" align=middle width=12.35637809999999pt height=14.15524440000002pt/> is also 0 and the same for the outcome of 1.
 
 Now the trouble was that we are only given a specific <img src="/2019/ALLESCTF/tex/4fa3ac8fe93c68be3fe7ab53bdeb2efa.svg?invert_in_darkmode&sanitize=true" align=middle width=12.35637809999999pt height=14.15524440000002pt/> and we would really like all of <img src="/2019/ALLESCTF/tex/6f9bad7347b91ceebebd3ad7e6f6f2d1.svg?invert_in_darkmode&sanitize=true" align=middle width=7.7054801999999905pt height=14.15524440000002pt/>.
 This part is probably obvious to most but it took me a while to figure out. I discovered after

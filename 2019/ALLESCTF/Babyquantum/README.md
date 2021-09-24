@@ -1,3 +1,5 @@
+From the event: https://ctftime.org/event/854/tasks/
+
 So to start of the challenge we take a look at the instructions page and
 see the definitions for this random secret gate of theirs.
 
